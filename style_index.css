@@ -1,0 +1,27 @@
+main{
+    margin:20vh;
+}
+
+.naglowek{
+    font-size: 50px;
+}
+
+.podnaglowek{
+    font-size: 40px;
+    padding-top:10px;
+    margin-top: 20px;
+}
+img{
+    margin-top: 25px;
+}
+article{
+    margin:50px;
+}
+
+
+.t2{
+    margin-top: 30px;
+}
+.t3{
+    margin-top: 110px;
+}
